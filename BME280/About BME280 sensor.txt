@@ -1,0 +1,23 @@
+Model Type:	
+Temperature and Humidity Sensor
+
+Rated Voltage (V):	
+1.8 to 5
+
+Interface:	
+I2C (up to 3.4MHz) SPI (up to 10 MHz)
+
+Operating Temperature (°C)	
+-40 to 85
+
+Humidity Range	
+0-100%
+
+Pressure Range	
+300-1100 hPa
+
+Resolution:	
+Temperature: +-1°C Humidity: +-3% Pressure: +-1Pa
+
+I2C Address	
+SDO LOW: 0x76 SDO HIGH: 0x77
