@@ -1,0 +1,9 @@
+IC Output Type: Digital
+Sensing Accuracy Range: 0.5C
+Sensing Temperature Min: -55°C
+Sensing Temperature Max: +125°C
+Sensor Case Style: TO-92
+No. of Pins: 3Pins
+Supply Voltage Max: 5.5V
+Resolution: 12 bits
+Output Interface: 1 Wire
